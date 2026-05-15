@@ -1,5 +1,2 @@
-# Put one Gemini API key per line.
-# Example:
-# AIzaSyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 AIzaSyBLuo2RpjVprNlm9rubFFVo7I_7uMBqQqY
 AIzaSyBsu14L29t1QDo-H4vG7wWrsw4bQQT521A
